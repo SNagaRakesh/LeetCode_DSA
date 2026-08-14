@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0018-4sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/1903-largest-odd-number-in-string) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
