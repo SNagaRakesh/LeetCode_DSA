@@ -8,10 +8,8 @@ class Solution {
 
         for(int i = 0; i < n-1; i++) {
             // odd palindrome
-            int left = i;
-            int right = i;
             
-            int[] odd = isPalindrome(s, left, right);
+            int[] odd = isPalindrome(s, i, i);
             
             if (odd[1] - odd[0] + 1 > maxLength) {
                 maxLength = odd[1] - odd[0] + 1;
@@ -20,10 +18,8 @@ class Solution {
             }
             
             // even palindrome 
-            left = i;
-            right = i+1;
 
-            int[] even = isPalindrome(s, left, right);
+            int[] even = isPalindrome(s, i, i+1);
 
             if (even[1] - even[0] + 1 > maxLength) {
                 maxLength = even[1] - even[0] + 1;
