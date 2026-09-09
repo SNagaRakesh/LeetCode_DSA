@@ -10,15 +10,11 @@ class Solution {
         int j = 2;
 
         while(j < n) {
-            if(i+1 != j) {
-                if(nums[i] != nums[j]) {
+            if(nums[i] != nums[j]) {
+                if(i+2 != j) 
                     swap(nums, i+2, j);
-                    i++;
-                    j++;
-                }
-                else{
-                    j++;
-                }
+                i++;
+                j++;
             }
             else{
                 j++;
