@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0881-boats-to-save-people](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0881-boats-to-save-people](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 ## Trie
 |  |
 | ------- |
@@ -130,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0075-sort-colors) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
