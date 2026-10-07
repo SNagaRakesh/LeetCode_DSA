@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0013-roman-to-integer) |
+| [0507-perfect-number](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
