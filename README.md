@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0204-count-primes](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0204-count-primes) |
 | [0881-boats-to-save-people](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -139,4 +141,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
