@@ -9,7 +9,7 @@ class Solution {
         String resultS = new String(sArray);
         String resultT = new String(tArray);
 
-        return (resultS.equals(resultT)) ? true : false;
+        return (resultS.equals(resultT));
         
     }
 }
