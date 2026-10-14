@@ -17,24 +17,25 @@ class Solution {
             idx++;
         }
 
-        
+        HashMap<String, List<String>> map = new HashMap<>();
 
-        HashSet<String> uniqueAnagrams = new HashSet<>();
+        int index = 0;
 
-        for(String str : anagrams) {
-            uniqueAnagrams.add(str);
+        for(String anagram : anagrams) {
+            if(map.containsKey(anagram)) {
+                map.get(anagram).add(strs[index]);
+            }
+            else{
+                map.put(anagram, new ArrayList<>());
+                map.get(anagram).add(strs[index]);
+            }
+            index++;
         }
 
         List<List<String>> ans = new ArrayList<>();
 
-        for(String s : uniqueAnagrams) {
-            List<String> temp = new ArrayList<>();
-            for(int i = 0; i < n; i++) {
-                if(anagrams[i].equals(s)) {
-                    temp.add(strs[i]);
-                }
-            }
-            ans.add(temp);
+        for(List<String> v : map.values()){
+            ans.add(v);
         }
         return ans;
     }
