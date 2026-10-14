@@ -2,20 +2,26 @@ class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         int n = strs.length;
 
-        List<char[]> strsArray = new ArrayList<>();
+        // List<char[]> strsArray = new ArrayList<>();
 
-        for(int i = 0; i < n; i++) {
-            strsArray.add(strs[i].toCharArray());
-        }
+        // for(int i = 0; i < n; i++) {
+        //     strsArray.add(strs[i].toCharArray());
+        // }
 
         String[] anagrams = new String[n];
 
-        int idx = 0;
-        for(char[] c : strsArray) {
-            Arrays.sort(c);
-            anagrams[idx] = new String(c);
-            idx++;
+        for(int i = 0; i < n; i++) {
+            char[] charArray = strs[i].toCharArray();
+            Arrays.sort(charArray);
+            anagrams[i] = new String(charArray);
         }
+
+        // int idx = 0;
+        // for(char[] c : strsArray) {
+        //     Arrays.sort(c);
+        //     anagrams[idx] = new String(c);
+        //     idx++;
+        // }
 
         HashMap<String, List<String>> map = new HashMap<>();
 
