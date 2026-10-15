@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0204-count-primes](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0204-count-primes) |
+| [0347-top-k-frequent-elements](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 ## Trie
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
@@ -115,14 +119,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
@@ -165,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0204-count-primes) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
