@@ -3,20 +3,20 @@ class Solution {
         int n = nums.length;
 
         int[] ans = new int[n];
+        int[] prefix = new int[n];
+        int[] suffix = new int[n];
 
-        ans[0] = 1;
+        prefix[0] = 1;
+        suffix[n-1] = 1;
 
         for(int i = 1; i < n; i++) {
-           ans[i] = ans[i-1] * nums[i-1]; 
+            prefix[i] = prefix[i-1] * nums[i-1];
+            suffix[n-1-i] = suffix[n-i] * nums[n-i];
         }
 
-        int suffix = 1;
-
-        for(int i = n-2; i >= 0; i--) {
-            suffix *= nums[i+1];
-            ans[i] = suffix * ans[i];
+        for(int i = 0; i < n; i++) {
+            ans[i] = prefix[i] * suffix[i];
         }
-
         return ans;
     }
 }
