@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0204-count-primes](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 ## Binary Search
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
