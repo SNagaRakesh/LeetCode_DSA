@@ -17,15 +17,14 @@ class Solution {
 
             int rNeeded = (right - left + 1) - maxFreq;
 
-            if(rNeeded <= k) {
-                max = Math.max(max, (right - left + 1));
-                right++;
-            }
-            else{
+            while(rNeeded > k) {
                 freq[s.charAt(left)-'A']--;
                 left++;
-                right++;
+                rNeeded = (right - left + 1) - maxFreq;
             }
+
+            max = Math.max(max, right - left + 1);
+            right++;
         }
         return max;
     }
