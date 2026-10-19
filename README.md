@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0796-rotate-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
@@ -187,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/SNagaRakesh/LeetCode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
