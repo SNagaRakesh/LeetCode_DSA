@@ -50,12 +50,6 @@ class Solution {
                 }
             }
         }
-        System.out.println("min = " + min);
-        System.out.println("i = " + i + ", j = " + j);
-        System.out.println("satisfied = " + satisfied);
-        System.out.println("required distinct chars = " + freqMap.size());
-        System.out.println("window map = " + wFMap);
-        System.out.println("required map = " + freqMap);
         return min == Integer.MAX_VALUE ? "" : s.substring(minIdx[0], minIdx[1]+1);
     }
 }
