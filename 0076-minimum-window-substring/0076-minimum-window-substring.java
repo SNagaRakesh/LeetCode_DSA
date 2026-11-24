@@ -17,7 +17,7 @@ class Solution {
 
         if(s.length() != 0) {
             wFMap.put(s.charAt(j), wFMap.getOrDefault(s.charAt(j), 0) + 1);
-            if(wFMap.get(s.charAt(j)) == freqMap.getOrDefault(s.charAt(j), Integer.MAX_VALUE)) {
+            if((int)wFMap.get(s.charAt(j)) == (int)freqMap.getOrDefault(s.charAt(j), Integer.MAX_VALUE)) {
                 satisfied++;
             }
         }
